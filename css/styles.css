@@ -5,3 +5,25 @@
     --color-heding: #330066;
     --color-body: #918ca4;
 }
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'inter' Arial, Helvetica, sans-serif;
+    font-size: 2.4rem;
+    color: #999999;
+    line-height: 1.5;
+}
+h1, h2, h3 {
+    color: #330066;
+    margin-bottom: 1.5rem;
+}
+h1 {
+    font-size: 7rem;
+}    
+h2 {
+    font-size: 4rem;
+}
+h3 {
+    font-size: 3rem;
+}
