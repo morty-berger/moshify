@@ -321,3 +321,21 @@ a {
         margin-bottom: 1.5rem;
     }
 }
+/* media object */
+.media {
+    display: flex;
+
+}
+.media__img {
+    padding-top: 8px;
+}
+.media__body {
+    padding: 0 2rem;
+}
+
+.media__title {
+    margin-top: 0;
+}
+.media__description {
+    margin-top: 0;
+}
